@@ -44,7 +44,7 @@
         
         <!-- Logo (center) -->
         <div class="absolute left-1/2 transform -translate-x-1/2">
-          <a href="{base}/" class="flex items-center">
+          <a href="" class="flex items-center">
             <img src={logoSrc} alt={logoAlt} class="mt-4 h-20 w-auto" />
           </a>
         </div>
@@ -52,7 +52,7 @@
         <!-- Order button (right) -->
         <div>
           <a 
-            href="/order" 
+            href="" 
             class="bg-orange-500 hover:bg-orange-600 text-white font-bold py-2 px-4 rounded transition-colors"
           >
             ORDER
