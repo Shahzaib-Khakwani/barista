@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    @font-face {
+        font-family: 'rog-reg';
+        src: url('/fonts/rog-reg.otf') format('otf');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'rog-bold';
+        src: url('/fonts/rog-bold.otf') format('otf');
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+    }
+}
