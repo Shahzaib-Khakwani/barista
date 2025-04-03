@@ -19,7 +19,7 @@ style="background-image: url('{base}/hero.png'); background-size: cover; backgro
     <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
         <Button content='Order' />
         <button
-            href="/order" 
+            href="#" 
             class="font-rog text-base md:text-lg bg-transparent border-white border-2 rounded-xl hover:bg-white text-white hover:text-black font-bold py-2 px-4 w-full sm:w-auto transition-all duration-150"
         >
             Menu
