@@ -25,7 +25,7 @@
     
     <p class="text-black mb-8 max-w-xs">{description}</p>
     <button
-            href="/order" 
+            href="#" 
             class="font-rog text-lg bg-white border-[#DC701F] border-2 rounded-xl hover:bg-[#2D1509] text-black hover:text-white font-bold py-2 px-4  transition-all duration-150"
             >
                 Shop Coffee Beans
