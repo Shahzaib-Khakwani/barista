@@ -10,17 +10,17 @@
       <div class="flex flex-col md:flex-row justify-between items-center mb-8">
         <!-- Logo on the left -->
         <div class="mb-4 md:mb-0">
-          <a href="{base}/" class="inline-block">
+          <a href="#" class="inline-block">
             <img src="{base}/logo.svg" alt="Dann Good Coffee" class="h-16" />
           </a>
         </div>
         
         <!-- Navigation Links -->
         <div class="flex items-center space-x-6 mb-4 md:mb-0">
-          <a href="{base}/menu" class="uppercase font-bold hover:text-gray-300">Menu</a>
-          <a href="{base}/shop" class="uppercase font-bold hover:text-gray-300">Shop</a>
-          <a href="{base}/about" class="uppercase font-bold hover:text-gray-300">About</a>
-          <a href="{base}/order" class="uppercase font-bold hover:text-gray-300">Order</a>
+          <a href="#" class="uppercase font-bold hover:text-gray-300">Menu</a>
+          <a href="#" class="uppercase font-bold hover:text-gray-300">Shop</a>
+          <a href="#" class="uppercase font-bold hover:text-gray-300">About</a>
+          <a href="#" class="uppercase font-bold hover:text-gray-300">Order</a>
         </div>
         
         <!-- Social Icons -->
@@ -58,9 +58,9 @@
         <div class="flex flex-col md:flex-row justify-center md:justify-between items-center text-sm">
           <div class="mb-2 md:mb-0">© 2024  Coffee</div>
           <div class="flex space-x-6">
-            <a href="{base}/privacy" class="hover:text-gray-300">Privacy Policy</a>
-            <a href="{base}/terms" class="hover:text-gray-300">Terms of Service</a>
-            <a href="{base}/settings" class="hover:text-gray-300">Coffee Settings</a>
+            <a href="#" class="hover:text-gray-300">Privacy Policy</a>
+            <a href="#" class="hover:text-gray-300">Terms of Service</a>
+            <a href="#" class="hover:text-gray-300">Coffee Settings</a>
           </div>
         </div>
       </div>
