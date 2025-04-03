@@ -44,7 +44,7 @@
         
         <!-- Logo (center) -->
         <div class="absolute left-1/2 transform -translate-x-1/2">
-          <a href="/" class="flex items-center">
+          <a href="{base}/" class="flex items-center">
             <img src={logoSrc} alt={logoAlt} class="mt-4 h-20 w-auto" />
           </a>
         </div>
