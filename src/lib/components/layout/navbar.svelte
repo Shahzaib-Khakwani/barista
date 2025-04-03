@@ -11,9 +11,9 @@
     };
     
     const menuItems = [
-      { name: "MENU", href: "/menu" },
-      { name: "SHOP", href: "/shop" },
-      { name: "ABOUT", href: "/about" }
+      { name: "MENU", href: "#" },
+      { name: "SHOP", href: "#" },
+      { name: "ABOUT", href: "#" }
     ];
   </script>
   <nav class="absolute top-0 left-0 w-full bg-transparent z-10">
